@@ -11,11 +11,13 @@ namespace Exercicios_03
     {
         static void Main(string[] args)
         {
-            //CalculaCedula();
+            //Descomente com CTRL + U + K o nome do programa que deseja executar;
+            //Para comentá-lo digite CTRL + C;
+            CalculaCedula();
             //MaiorValor();
             //CalculadoraMedia();
             //CalculaFaixasMedias();
-            AumentoSalario();
+            //AumentoSalario();
         }
 
         static void CalculaCedula()
@@ -115,7 +117,7 @@ namespace Exercicios_03
                 calculoMedia = (float) (media / 3);
                 string resultado = (calculoMedia >= 7.0) ? "Aluno Aprovado" : "Aluno Reprovado";
 
-                Console.WriteLine($"A média do aluno foi: {calculoMedia}. {resultado}");
+                Console.WriteLine($"A média do aluno foi: {calculoMedia: 0.00}. {resultado}");
             
                 
                 Console.WriteLine("\nDeseja continuar com mais cálculos, 'S' para sim e 'N' para não? ");
@@ -209,19 +211,59 @@ namespace Exercicios_03
             //Exemplo de Entrada 400.00
             //Exemplo de Saída Novo salario: 460.00 Reajuste ganho: 60.00 Em percentual: 15 %
             double valorInicial, valorFinal, diferencaValor;
+            char opcao = 'S';
 
-            Console.WriteLine("Digite o salário do funcionário: ");
-            valorInicial = double.Parse(Console.ReadLine());
 
-            if(valorInicial <= 400)
+            while (opcao == 'S')
             {
-                diferencaValor = valorInicial * 0.15;
-                valorFinal = valorInicial + diferencaValor;
-                Console.WriteLine($"Novo Salário {valorFinal} Reajuste Ganho {diferencaValor} Índice Reajustado: 15%");
+
+                Console.WriteLine("Digite o salário do funcionário: ");
+                valorInicial = double.Parse(Console.ReadLine());
+
+                if (valorInicial <= 400.00)
+                {
+                    diferencaValor = (float)valorInicial * 0.15;
+                    valorFinal = (float)valorInicial + diferencaValor;
+                    Console.WriteLine(
+                        $"Novo Salário {valorFinal:0.00} Reajuste Ganho {diferencaValor: 0.00} Índice Reajustado: 15%");
+                }
+                else if (valorInicial > 400.00 && valorInicial <= 800.00)
+                {
+                    diferencaValor = (float)valorInicial * 0.12;
+                    valorFinal = (float)valorInicial + diferencaValor;
+                    Console.WriteLine(
+                        $"Novo Salário {valorFinal:0.00} Reajuste Ganho {diferencaValor: 0.00} Índice Reajustado: 12%");
+                }
+                else if (valorInicial > 800.00 && valorInicial <= 1200.00)
+                {
+                    diferencaValor = (float)valorInicial * 0.10;
+                    valorFinal = (float)valorInicial + diferencaValor;
+                    Console.WriteLine(
+                        $"Novo Salário {valorFinal:0.00} Reajuste Ganho {diferencaValor: 0.00} Índice Reajustado: 10%");
+                }
+                else if (valorInicial > 1200.00 && valorInicial <= 2000.00)
+                {
+                    diferencaValor = (float)valorInicial * 0.07;
+                    valorFinal = (float)valorInicial + diferencaValor;
+                    Console.WriteLine(
+                        $"Novo Salário {valorFinal:0.00} Reajuste Ganho {diferencaValor: 0.00} Índice Reajustado: 7%");
+                }
+                else
+                {
+                    diferencaValor = (float)valorInicial * 0.04;
+                    valorFinal = (float)valorInicial + diferencaValor;
+                    Console.WriteLine(
+                        $"Novo Salário {valorFinal:0.00} Reajuste Ganho {diferencaValor: 0.00} Índice Reajustado: 4%");
+                }
+                Console.WriteLine("\nDeseja continuar com mais cálculos, 'S' para sim e 'N' para não? ");
+                opcao = char.Parse(Console.ReadLine());
+                
+                if (opcao != 'S')
+                {
+                    Console.Write("Aperte enter para sair");
+                }
+
             }
-
-            Console.ReadLine();
-
 
 
             Console.ReadLine();

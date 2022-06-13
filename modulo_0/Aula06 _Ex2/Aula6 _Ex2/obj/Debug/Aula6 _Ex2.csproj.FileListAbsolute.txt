@@ -1,0 +1,8 @@
+C:\Users\susan\OneDrive\Documentos\Blue\C# módulo 0\Aula6 _Ex2\Aula6 _Ex2\bin\Debug\Aula6 _Ex2.exe.config
+C:\Users\susan\OneDrive\Documentos\Blue\C# módulo 0\Aula6 _Ex2\Aula6 _Ex2\bin\Debug\Aula6 _Ex2.exe
+C:\Users\susan\OneDrive\Documentos\Blue\C# módulo 0\Aula6 _Ex2\Aula6 _Ex2\bin\Debug\Aula6 _Ex2.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\C# módulo 0\Aula6 _Ex2\Aula6 _Ex2\obj\Debug\Aula6 _Ex2.csproj.AssemblyReference.cache
+C:\Users\susan\OneDrive\Documentos\Blue\C# módulo 0\Aula6 _Ex2\Aula6 _Ex2\obj\Debug\Aula6 _Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\OneDrive\Documentos\Blue\C# módulo 0\Aula6 _Ex2\Aula6 _Ex2\obj\Debug\Aula6 _Ex2.csproj.CoreCompileInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\C# módulo 0\Aula6 _Ex2\Aula6 _Ex2\obj\Debug\Aula6 _Ex2.exe
+C:\Users\susan\OneDrive\Documentos\Blue\C# módulo 0\Aula6 _Ex2\Aula6 _Ex2\obj\Debug\Aula6 _Ex2.pdb

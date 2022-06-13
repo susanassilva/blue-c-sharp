@@ -1,0 +1,8 @@
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula04\Aula04\bin\Debug\Aula04.exe.config
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula04\Aula04\bin\Debug\Aula04.exe
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula04\Aula04\bin\Debug\Aula04.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula04\Aula04\obj\Debug\Aula04.csproj.AssemblyReference.cache
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula04\Aula04\obj\Debug\Aula04.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula04\Aula04\obj\Debug\Aula04.csproj.CoreCompileInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula04\Aula04\obj\Debug\Aula04.exe
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula04\Aula04\obj\Debug\Aula04.pdb

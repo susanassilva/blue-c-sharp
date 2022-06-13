@@ -1,0 +1,8 @@
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula02\Exercicio_02\Exercicio_02\bin\Debug\Exercicio_02.exe.config
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula02\Exercicio_02\Exercicio_02\bin\Debug\Exercicio_02.exe
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula02\Exercicio_02\Exercicio_02\bin\Debug\Exercicio_02.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula02\Exercicio_02\Exercicio_02\obj\Debug\Exercicio_02.csproj.AssemblyReference.cache
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula02\Exercicio_02\Exercicio_02\obj\Debug\Exercicio_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula02\Exercicio_02\Exercicio_02\obj\Debug\Exercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula02\Exercicio_02\Exercicio_02\obj\Debug\Exercicio_02.exe
+C:\Users\susan\OneDrive\Documentos\Blue\CodingGirls\modulo_01\Aula02\Exercicio_02\Exercicio_02\obj\Debug\Exercicio_02.pdb

@@ -44,7 +44,6 @@ namespace Exercicios_03
                         valor2 = (int) (valor / notas[i]);
                         valor = (int) (valor % notas[i]);
                         Console.WriteLine($"{valor2} nota(s) de {notas[i]}");
-
                 }
 
                 Console.WriteLine("\nDeseja continuar, 'S' para sim e 'N' para não: ");

@@ -1,0 +1,15 @@
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\bin\Debug\net6.0\Aula_Revisão.exe
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\bin\Debug\net6.0\Aula_Revisão.deps.json
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\bin\Debug\net6.0\Aula_Revisão.runtimeconfig.json
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\bin\Debug\net6.0\Aula_Revisão.dll
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\bin\Debug\net6.0\Aula_Revisão.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\obj\Debug\net6.0\Aula_Revisão.csproj.AssemblyReference.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\obj\Debug\net6.0\Aula_Revisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\obj\Debug\net6.0\Aula_Revisão.AssemblyInfoInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\obj\Debug\net6.0\Aula_Revisão.AssemblyInfo.cs
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\obj\Debug\net6.0\Aula_Revisão.csproj.CoreCompileInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\obj\Debug\net6.0\Aula_Revisão.dll
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\obj\Debug\net6.0\refint\Aula_Revisão.dll
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\obj\Debug\net6.0\Aula_Revisão.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\obj\Debug\net6.0\Aula_Revisão.genruntimeconfig.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_Revisão_Coding\Aula_Revisão\obj\Debug\net6.0\ref\Aula_Revisão.dll

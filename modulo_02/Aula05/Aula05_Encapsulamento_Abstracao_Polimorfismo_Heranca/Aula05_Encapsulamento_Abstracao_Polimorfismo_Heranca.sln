@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula05_Encapsulamento_Abstracao_Polimorfismo_Heranca", "Aula05_Encapsulamento_Abstracao_Polimorfismo_Heranca.csproj", "{14D4C270-B0A7-4AF0-9098-7524C35A8E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D4C270-B0A7-4AF0-9098-7524C35A8E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D4C270-B0A7-4AF0-9098-7524C35A8E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D4C270-B0A7-4AF0-9098-7524C35A8E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D4C270-B0A7-4AF0-9098-7524C35A8E31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA4F50D4-759E-4266-A31D-F7B413EB3301}
+	EndGlobalSection
+EndGlobal

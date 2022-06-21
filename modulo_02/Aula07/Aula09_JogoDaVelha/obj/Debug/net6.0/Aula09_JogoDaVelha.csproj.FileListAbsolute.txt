@@ -1,0 +1,15 @@
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\obj\Debug\net6.0\Aula09_JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\obj\Debug\net6.0\Aula09_JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\obj\Debug\net6.0\Aula09_JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\obj\Debug\net6.0\Aula09_JogoDaVelha.AssemblyInfo.cs
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\obj\Debug\net6.0\Aula09_JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\bin\Debug\net6.0\Aula09_JogoDaVelha.exe
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\bin\Debug\net6.0\Aula09_JogoDaVelha.deps.json
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\bin\Debug\net6.0\Aula09_JogoDaVelha.runtimeconfig.json
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\bin\Debug\net6.0\Aula09_JogoDaVelha.dll
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\bin\Debug\net6.0\Aula09_JogoDaVelha.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\obj\Debug\net6.0\Aula09_JogoDaVelha.dll
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\obj\Debug\net6.0\refint\Aula09_JogoDaVelha.dll
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\obj\Debug\net6.0\Aula09_JogoDaVelha.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\obj\Debug\net6.0\Aula09_JogoDaVelha.genruntimeconfig.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\Aula09_JogoDaVelha\obj\Debug\net6.0\ref\Aula09_JogoDaVelha.dll

@@ -1,0 +1,8 @@
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_05_Exercicio\bin\Debug\Aula_05_Exercicio.exe.config
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_05_Exercicio\bin\Debug\Aula_05_Exercicio.exe
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_05_Exercicio\bin\Debug\Aula_05_Exercicio.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_05_Exercicio\obj\Debug\Aula_05_Exercicio.csproj.AssemblyReference.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_05_Exercicio\obj\Debug\Aula_05_Exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_05_Exercicio\obj\Debug\Aula_05_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_05_Exercicio\obj\Debug\Aula_05_Exercicio.exe
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula_05_Exercicio\obj\Debug\Aula_05_Exercicio.pdb

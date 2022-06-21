@@ -1,0 +1,8 @@
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\ExercicioCalc\bin\Debug\ExercicioCalc.exe.config
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\ExercicioCalc\bin\Debug\ExercicioCalc.exe
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\ExercicioCalc\bin\Debug\ExercicioCalc.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\ExercicioCalc\obj\Debug\ExercicioCalc.csproj.AssemblyReference.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\ExercicioCalc\obj\Debug\ExercicioCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\ExercicioCalc\obj\Debug\ExercicioCalc.csproj.CoreCompileInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\ExercicioCalc\obj\Debug\ExercicioCalc.exe
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Aula07\ExercicioCalc\obj\Debug\ExercicioCalc.pdb

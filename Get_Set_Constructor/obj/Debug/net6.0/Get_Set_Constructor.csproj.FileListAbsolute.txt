@@ -1,0 +1,15 @@
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\bin\Debug\net6.0\Get_Set_Constructor.exe
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\bin\Debug\net6.0\Get_Set_Constructor.deps.json
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\bin\Debug\net6.0\Get_Set_Constructor.runtimeconfig.json
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\bin\Debug\net6.0\Get_Set_Constructor.dll
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\bin\Debug\net6.0\Get_Set_Constructor.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\obj\Debug\net6.0\Get_Set_Constructor.csproj.AssemblyReference.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\obj\Debug\net6.0\Get_Set_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\obj\Debug\net6.0\Get_Set_Constructor.AssemblyInfoInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\obj\Debug\net6.0\Get_Set_Constructor.AssemblyInfo.cs
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\obj\Debug\net6.0\Get_Set_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\obj\Debug\net6.0\Get_Set_Constructor.dll
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\obj\Debug\net6.0\refint\Get_Set_Constructor.dll
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\obj\Debug\net6.0\Get_Set_Constructor.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\obj\Debug\net6.0\Get_Set_Constructor.genruntimeconfig.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_01\Get_Set_Constructor\obj\Debug\net6.0\ref\Get_Set_Constructor.dll

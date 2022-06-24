@@ -1,0 +1,8 @@
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_02\Aula07_ExerciciosAvaliativos\bin\Debug\Aula07_ExerciciosAvaliativos.exe.config
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_02\Aula07_ExerciciosAvaliativos\bin\Debug\Aula07_ExerciciosAvaliativos.exe
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_02\Aula07_ExerciciosAvaliativos\bin\Debug\Aula07_ExerciciosAvaliativos.pdb
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_02\Aula07_ExerciciosAvaliativos\obj\Debug\Aula07_ExerciciosAvaliativos.csproj.AssemblyReference.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_02\Aula07_ExerciciosAvaliativos\obj\Debug\Aula07_ExerciciosAvaliativos.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_02\Aula07_ExerciciosAvaliativos\obj\Debug\Aula07_ExerciciosAvaliativos.csproj.CoreCompileInputs.cache
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_02\Aula07_ExerciciosAvaliativos\obj\Debug\Aula07_ExerciciosAvaliativos.exe
+C:\Users\susan\OneDrive\Documentos\Blue\modulo_02\Aula07_ExerciciosAvaliativos\obj\Debug\Aula07_ExerciciosAvaliativos.pdb

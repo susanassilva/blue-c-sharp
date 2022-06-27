@@ -10,6 +10,7 @@ namespace Exercicio02_Aula07
     {
         static void Main(string[] args)
         {
+            Login user1 = new Login();
         }
     }
 }

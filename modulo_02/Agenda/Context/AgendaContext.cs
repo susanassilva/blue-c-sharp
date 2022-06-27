@@ -11,5 +11,6 @@ namespace Agenda.Context
         }
 
         public DbSet<Contato> Contatos { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
     }
 }

@@ -7,6 +7,9 @@
 
         public string Email { get; set; }
 
+        public string Apelido { get; set; }
         public DateTime DataNascimento { get; set; }
+
+        public char Genero { get; set; }
     }
 }

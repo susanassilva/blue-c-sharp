@@ -34,7 +34,6 @@ namespace SistemaEscolar.Controllers
             var alunoLista = await _context.Aluno.ToListAsync();
             var resultado = new JsonResult(new
             {
-                Alunos = alunoLista.Count,
                 StatusAtivo = alunoLista.FindAll(c => c.Turma.ativo == true),
             });
             return resultado;

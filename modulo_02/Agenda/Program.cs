@@ -1,15 +1,16 @@
+using System.Text.Json.Serialization;
 using Agenda.Context;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Proxies;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-//builder.Services.AddDbContext<AgendaContext>(opt => opt.UseInMemoryDatabase("Agenda"));
-
-builder.Services.AddDbContext<AgendaContext>(opt => opt.UseSqlServer(@"Server=DESKTOP-C6VUHP3\LOCALDB#242382A1\SQLEXPRESS;Database=agenda;User_Id=root;Password=123456789"));
+UseLazyLoadingProxies();
+builder.Services.AddDbContext<AgendaContext>(opt => opt.UseSqlServer(@"Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=agenda;Persist Security Info=True;User ID=root;Password=123456789"));
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

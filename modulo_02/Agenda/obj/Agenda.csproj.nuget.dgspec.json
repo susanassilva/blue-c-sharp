@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\susan\\OneDrive\\Documentos\\Blue\\modulo_02\\Agenda\\Agenda.csproj": {}
+    "C:\\Users\\susan\\Documents\\Blue\\modulo_02\\Agenda\\Agenda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\susan\\OneDrive\\Documentos\\Blue\\modulo_02\\Agenda\\Agenda.csproj": {
+    "C:\\Users\\susan\\Documents\\Blue\\modulo_02\\Agenda\\Agenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\susan\\OneDrive\\Documentos\\Blue\\modulo_02\\Agenda\\Agenda.csproj",
+        "projectUniqueName": "C:\\Users\\susan\\Documents\\Blue\\modulo_02\\Agenda\\Agenda.csproj",
         "projectName": "Agenda",
-        "projectPath": "C:\\Users\\susan\\OneDrive\\Documentos\\Blue\\modulo_02\\Agenda\\Agenda.csproj",
+        "projectPath": "C:\\Users\\susan\\Documents\\Blue\\modulo_02\\Agenda\\Agenda.csproj",
         "packagesPath": "C:\\Users\\susan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\susan\\OneDrive\\Documentos\\Blue\\modulo_02\\Agenda\\obj\\",
+        "outputPath": "C:\\Users\\susan\\Documents\\Blue\\modulo_02\\Agenda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[6.0.6, )"
             },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.6, )"
@@ -64,7 +68,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.3.1, )"
             }
           },
           "imports": [

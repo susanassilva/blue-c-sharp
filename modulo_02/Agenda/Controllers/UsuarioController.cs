@@ -23,7 +23,7 @@ namespace Agenda.Controllers
 
         // GET: api/Usuario
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Usuario>>> GetUsuarios()
+        public async Task<ActionResult<IEnumerable<Usuario>>> GetUsuario()
         {
           if (_context.Usuarios == null)
           {

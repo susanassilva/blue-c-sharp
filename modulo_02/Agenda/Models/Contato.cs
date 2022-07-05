@@ -11,5 +11,12 @@
         public DateTime DataNascimento { get; set; }
 
         public char Genero { get; set; }
+
+        public int Endereco_Id { get; set; }
+
+        #region Navigation Properties
+        public virtual Endereco Endereco { get; set; }
+
+        #endregion
     }
 }

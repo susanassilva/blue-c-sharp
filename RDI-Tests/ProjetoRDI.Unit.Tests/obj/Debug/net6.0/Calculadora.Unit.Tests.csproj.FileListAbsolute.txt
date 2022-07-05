@@ -1,0 +1,5 @@
+C:\Users\susan\Documents\Blue\RDI-Tests\ProjetoRDI.Unit.Tests\obj\Debug\net6.0\Calculadora.Unit.Tests.csproj.AssemblyReference.cache
+C:\Users\susan\Documents\Blue\RDI-Tests\ProjetoRDI.Unit.Tests\obj\Debug\net6.0\Calculadora.Unit.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susan\Documents\Blue\RDI-Tests\ProjetoRDI.Unit.Tests\obj\Debug\net6.0\Calculadora.Unit.Tests.AssemblyInfoInputs.cache
+C:\Users\susan\Documents\Blue\RDI-Tests\ProjetoRDI.Unit.Tests\obj\Debug\net6.0\Calculadora.Unit.Tests.AssemblyInfo.cs
+C:\Users\susan\Documents\Blue\RDI-Tests\ProjetoRDI.Unit.Tests\obj\Debug\net6.0\Calculadora.Unit.Tests.csproj.CoreCompileInputs.cache

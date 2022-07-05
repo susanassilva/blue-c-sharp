@@ -1,0 +1,3 @@
+C:\Users\susan\Documents\Blue\RDI-Tests\ProjetoRDI\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\susan\Documents\Blue\RDI-Tests\ProjetoRDI\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\Documents\Blue\RDI-Tests\ProjetoRDI\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
